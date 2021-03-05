@@ -16,6 +16,9 @@
     <properties>
         <java.version>15</java.version>
     </properties>
+    <scm>
+        <developerConnection>scm:git:[fetch=]https://github.com/hasanaburayyan/springboot.git[push=]ssh://git@github.com:hasanaburayyan/springboot.git</developerConnection>
+    </scm>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
