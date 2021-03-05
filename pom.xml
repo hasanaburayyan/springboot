@@ -16,7 +16,9 @@
         <java.version>15</java.version>
     </properties>
     <scm>
-        <developerConnection>scm:git:[fetch=]https://github.com/hasanaburayyan/springboot.git[push=]ssh://hasanaburayyan/springboot.git</developerConnection>
+        <url>https://github.com/hasanaburayyan/springboot</url>
+        <connection>scm:git:git://github.com/hasanaburayyan/springboot.git</connection>
+        <developerConnection>scm:git:git@github.com/hasanaburayyan/springboot.git</developerConnection>
       <tag>hasan-boot-0.0.1</tag>
   </scm>
     <dependencies>
