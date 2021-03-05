@@ -9,16 +9,16 @@
     </parent>
     <groupId>com.hasan</groupId>
     <artifactId>hasan-boot</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>hasan-boot</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>15</java.version>
     </properties>
     <scm>
-        <url>https://github.com/kevinsawicki/github-maven-example</url>
-        <connection>scm:git:git://github.com/kevinsawicki/github-maven-example.git</connection>
-        <developerConnection>scm:git:git@github.com:kevinsawicki/github-maven-example.git</developerConnection>
+        <url>https://github.com/hasanaburayyan/springboot</url>
+        <connection>scm:git:git://github.com/hasanaburayyan/springboot.git</connection>
+        <developerConnection>scm:git:git@github.com:hasanaburayyan/springboot.git</developerConnection>
     </scm>
     <dependencies>
         <dependency>
