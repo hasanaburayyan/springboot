@@ -20,7 +20,16 @@
         <connection>scm:git:git://github.com/hasanaburayyan/springboot.git</connection>
         <developerConnection>scm:git:git@github.com:hasanaburayyan/springboot.git</developerConnection>
       <tag>HEAD</tag>
-  </scm>
+    </scm>
+    <distributionManagement>
+        <repository>
+            <uniqueVersion>false</uniqueVersion>
+            <id>com.hasan</id>
+            <name>hasan-corp</name>
+            <url>scp://repo/maven2</url>
+            <layout>default</layout>
+        </repository>
+    </distributionManagement>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
