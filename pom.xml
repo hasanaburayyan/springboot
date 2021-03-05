@@ -22,11 +22,14 @@
       <tag>HEAD</tag>
     </scm>
     <distributionManagement>
+        <snapshotRepository>
+            <id>nexus-snapshots</id>
+            <url>http://localhost:8081/repository/maven-snapshots/</url>
+        </snapshotRepository>
         <repository>
             <uniqueVersion>false</uniqueVersion>
-            <id>com.hasan</id>
-            <name>hasan-corp</name>
-            <url>scp://repo/maven2</url>
+            <id>nexus-releases</id>
+            <url>http://localhost:8081/repository/maven-releases/</url>
             <layout>default</layout>
         </repository>
     </distributionManagement>
