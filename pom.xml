@@ -16,11 +16,10 @@
         <java.version>15</java.version>
     </properties>
     <scm>
-        <url>https://github.com/hasanaburayyan/springboot</url>
-        <connection>scm:git:git://git@github.com:hasanaburayyan/springboot</connection>
-        <developerConnection>scm:git:git@github.com:hasanaburayyan/springboot</developerConnection>
-    <tag>hasan-boot-0.0.2</tag>
-  </scm>
+        <url>https://github.com/kevinsawicki/github-maven-example</url>
+        <connection>scm:git:git://github.com/kevinsawicki/github-maven-example.git</connection>
+        <developerConnection>scm:git:git@github.com:kevinsawicki/github-maven-example.git</developerConnection>
+    </scm>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
