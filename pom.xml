@@ -17,9 +17,8 @@
     </properties>
     <scm>
         <url>https://github.com/hasanaburayyan/springboot</url>
-        <connection>scm:git:git://github.com/hasanaburayyan/springboot.git</connection>
+        <connection>scm:git:git://git@github.com/hasanaburayyan/springboot.git</connection>
         <developerConnection>scm:git:git@github.com/hasanaburayyan/springboot.git</developerConnection>
-      <tag>hasan-boot-0.0.1</tag>
   </scm>
     <dependencies>
         <dependency>
