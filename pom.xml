@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.hasan</groupId>
     <artifactId>hasan-boot</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>hasan-boot</name>
     <description>Demo project for Spring Boot</description>
     <properties>
@@ -19,6 +19,7 @@
         <url>https://github.com/hasanaburayyan/springboot</url>
         <connection>scm:git:git://git@github.com:hasanaburayyan/springboot</connection>
         <developerConnection>scm:git:git@github.com:hasanaburayyan/springboot</developerConnection>
+    <tag>hasan-boot-0.0.2</tag>
   </scm>
     <dependencies>
         <dependency>
