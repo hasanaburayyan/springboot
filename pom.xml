@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.hasan</groupId>
     <artifactId>hasan-boot</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>hasan-boot</name>
     <description>Demo project for Spring Boot</description>
     <properties>
